@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/gif-projject/static/css/main.5bcb421c.css",
-    "main.js": "/gif-projject/static/js/main.ec458fc1.js",
-    "index.html": "/gif-projject/index.html",
-    "main.5bcb421c.css.map": "/gif-projject/static/css/main.5bcb421c.css.map",
-    "main.ec458fc1.js.map": "/gif-projject/static/js/main.ec458fc1.js.map"
+    "main.css": "/gif-project/static/css/main.5bcb421c.css",
+    "main.js": "/gif-project/static/js/main.ec458fc1.js",
+    "index.html": "/gif-project/index.html",
+    "main.5bcb421c.css.map": "/gif-project/static/css/main.5bcb421c.css.map",
+    "main.ec458fc1.js.map": "/gif-project/static/js/main.ec458fc1.js.map"
   },
   "entrypoints": [
     "static/css/main.5bcb421c.css",
